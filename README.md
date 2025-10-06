@@ -6,4 +6,4 @@ This repository tracks my learning journey across Git, Markdown, open source, an
 
 ## Week 1 Goals
 [x] Create my first GitHub repository
-
+[x] Download GitHun desktop
